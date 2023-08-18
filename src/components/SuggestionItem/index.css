@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.searchContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding-left: 0px;
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.para {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #475569;
+  padding-left: 0px;
+}
+
+.arrowLogo {
+  width: 30px;
+  height: 30px;
+}
